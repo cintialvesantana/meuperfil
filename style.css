@@ -25,6 +25,5 @@ li{padding-bottom: 10px;}
 
 div img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 5vh auto 3vh auto;
 }
