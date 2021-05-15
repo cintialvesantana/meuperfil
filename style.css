@@ -82,12 +82,9 @@
     
 }
 
-#qualificacoes{
-    padding-top: 30px;   
-    
+.lista2 li{
+    padding-left: 20px;
+    color: black;
 }
 
-.hab{
-    
-    padding-left: 50px;
-}
+
